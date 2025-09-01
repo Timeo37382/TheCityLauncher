@@ -29,6 +29,6 @@ $instance['cite'] = array_merge($instance['cite'], array(
         "logo" => "URL LOL.png",
         "ip" => "Ton IP Serveur sans le port",
         "port" => 25567
-    ),
+    )
 ));
 ?>
