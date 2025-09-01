@@ -1,15 +1,15 @@
 {
-    "name": "Haiko-Launcher",
-    "preductname": "Haiko Launcher",
+    "name": "TheCity-Launcher",
+    "preductname": "TheCity Launcher",
     "version": "1.10.3",
-    "description": "Launcher Mincraft pour le serveur Haiko",
+    "description": "Launcher Mincraft pour le serveur TheCity",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, DorianCarriere, Inc.",
+        "name": "luuxis, DorianCarriere, Timeo37382, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://doriancarriere.duckdns.org/Haiko-Launcher",
+    "url": "https://timeo37382.github.io/TheCityLauncher",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FurTorie/Haiko-Launcher.git"
+        "url": "git+https://github.com/Timeo37382/TheCityLauncher.git"
     }
 }
