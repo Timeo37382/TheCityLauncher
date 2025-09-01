@@ -1,7 +1,7 @@
  {
     "name": "TheCity-Launcher",
     "preductname": "TheCity Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Mincraft pour le serveur TheCity",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://timeo37382.github.io/TheCityLauncher",
+    "url": "http://doriancarriere.duckdns.org/test",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
