@@ -1,7 +1,7 @@
  {
     "name": "TheCity-Launcher",
     "preductname": "TheCity Launcher",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Launcher Mincraft pour le serveur TheCity",
     "main": "src/app.js",
     "author": {
