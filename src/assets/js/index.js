@@ -30,9 +30,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Haiko Launcher - Nouvelle génération !", "author": "DorianCarriere, Luuxis" },
-            { "message": "News épinglées, instances dynamiques🚀", "author": "DorianCarriere, Luuxis" },
-            { "message": "Interface moderne, expérience fluide✨", "author": "DorianCarriere, Luuxis" }
+            { "message": "TheCityLauncher - Nouvelle génération !", "author": "DorianCarriere, Luuxis, Timeo3738," },
+            { "message": "News épinglées, instances dynamiques🚀", "author": "DorianCarriere, Luuxis, Timeo3738," },
+            { "message": "Interface moderne, expérience fluide✨", "author": "DorianCarriere, Luuxis ,Timeo3738," }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
