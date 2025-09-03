@@ -1,6 +1,6 @@
 <p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher" width="128"></p>
 
-<h1 align="center">Haiko-Launcher</h1>
+<h1 align="center">TheCity-Launcher</h1>
 
 <p align="center">
   <strong>Lanceur Minecraft officiel pour le serveur Haiko</strong><br>
