@@ -3,7 +3,7 @@
 <h1 align="center">TheCity-Launcher</h1>
 
 <p align="center">
-  <strong>Lanceur Minecraft officiel pour le serveur Haiko</strong><br>
+  <strong>Lanceur Minecraft officiel pour la cité des noobs</strong><br>
   Basé sur Electron avec authentification Microsoft et support multi-versions
 </p>
 
