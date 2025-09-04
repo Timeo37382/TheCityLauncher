@@ -1,7 +1,7 @@
  {
     "name": "TheCity-Launcher",
     "preductname": "TheCity Launcher",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "Launcher Mincraft pour le serveur TheCity",
     "main": "src/app.js",
     "author": {
@@ -43,6 +43,7 @@
     },
     "launcherConfig": {
         "enableWelcomeInstance": false,
-        "defaultInstance": null
+        "defaultInstance": null,
+        "defaultBackgroundUrl": "https://i.imgur.com/6W316YN.mp4"
     }
 }
