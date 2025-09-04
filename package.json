@@ -1,7 +1,7 @@
  {
     "name": "TheCity-Launcher",
     "preductname": "TheCity Launcher",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "description": "Launcher Mincraft pour le serveur TheCity",
     "main": "src/app.js",
     "author": {
@@ -40,5 +40,9 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Timeo37382/TheCityLauncher.git"
+    },
+    "launcherConfig": {
+        "enableWelcomeInstance": false,
+        "defaultInstance": null
     }
 }
