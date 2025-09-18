@@ -1,8 +1,8 @@
  {
-    "name": "TheCity-Launcher",
-    "preductname": "TheCity Launcher",
-    "version": "1.1.7",
-    "description": "Launcher Mincraft pour le serveur TheCity",
+    "name": "Chill&Build Launcher",
+    "preductname": "Chill&Build Launcher",
+    "version": "1.1.8",
+    "description": "Launcher Mincraft pour le serveur Chill&Build",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, DorianCarriere, Timeo37382, Inc.",
