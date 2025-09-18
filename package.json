@@ -1,7 +1,7 @@
  {
-    "name": "Chill&Build Launcher",
-    "preductname": "Chill&Build Launcher",
-    "version": "1.1.8",
+    "name": "ChillBuild Launcher",
+    "preductname": "ChillBuild Launcher",
+    "version": "1.1.9",
     "description": "Launcher Mincraft pour le serveur Chill&Build",
     "main": "src/app.js",
     "author": {
